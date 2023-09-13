@@ -1,0 +1,30 @@
+  body
+  {
+    color: white;
+    background: gray;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 35px;
+  }
+  .heading
+  {
+    width: 80%;
+    font-size: 22px;
+  }
+  #camera 
+  {
+    width: 350px;
+    height: 250px; 
+  }
+  .nameOfObjects, #resultObjectName  , #resultObjectAccuracy
+  {
+    color: yellow;
+  }
+
+  h3
+  {
+    background-color: gray;
+   
+
+  }
+
+  
